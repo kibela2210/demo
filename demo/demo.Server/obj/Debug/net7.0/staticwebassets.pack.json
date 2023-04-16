@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\demo\\demo\\demo\\demo.Server\\wwwroot\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\libs\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.demo.Server.props",
+      "PackagePath": "build\\demo.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.demo.Server.props",
+      "PackagePath": "buildMultiTargeting\\demo.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.demo.Server.props",
+      "PackagePath": "buildTransitive\\demo.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.demo.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
